@@ -1,0 +1,21 @@
+body {
+  background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20231017/pngtree-dancing-stars-happy-new-year-holiday-background-with-painting-fireworks-image_13943160.jpg);
+  color: #101820;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.font {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 800px;
+  height: 200px;
+  background-color: rgb(9, 17, 31);
+  font-size: xx-large;
+  margin: 100px auto;
+  color: aliceblue;
+  border-radius: 30px;
+  outline: 10px solid orange;
+}
